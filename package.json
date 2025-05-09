@@ -1,5 +1,5 @@
 {
-  "name": "Asynchronous-Programming-in-API-Node.js",
+  "name": "asynchronous-programming-in-api-node",
   "version": "1.0.0",
   "description": "Starter package.json template",
   "main": "main.js",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "assert": "^2.1.0",
-    "axios": "^1.4.0",
+    "axios": "^1.9.0",
     "bcrypt": "^5.1.1",
     "body-parser": "^1.20.2",
     "chai": "^4.3.10",
@@ -43,5 +43,6 @@
     "socket.io": "^4.7.2",
     "socket.io-client": "^4.7.2",
     "supertest": "^6.3.3"
-  }
+  },
+  "keywords": []
 }
